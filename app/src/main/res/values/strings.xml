@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationTest</string>
+    <string name="result">结果</string>
+    <string name="str_proc">处理图像</string>
+</resources>
